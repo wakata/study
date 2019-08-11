@@ -1,0 +1,1 @@
+# Androdi + KotlinでJNI1やってみた

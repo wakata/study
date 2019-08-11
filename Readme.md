@@ -19,3 +19,5 @@ phone_cliantでブロードキャストした暗黙的Intentをレシーブし�
 ### kotlin
 
 #### jni
+自己学習用に作成。
+詳細は [./kotlin/jnin/Readmi.md](https://github.com/wakata/study/tree/master/Andoid/kotlin/jni)を参照
