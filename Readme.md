@@ -15,3 +15,7 @@ phone_cliantでブロードキャストした暗黙的Intentをレシーブし�
 
 ### musicplayer
 バックグラウンドで楽曲再生を行うアプリ※画面キャプチャ用のため機能未実装
+
+### kotlin
+
+#### jni
