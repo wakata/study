@@ -194,6 +194,8 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
+##### 実行結果
+
 ![実行結果](https://github.com/wakata/study/blob/master/Andoid/kotlin/jni/Screenshot_20190811-165355.png)
 
 ### メソッド追加
@@ -239,6 +241,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
+##### 実行結果
 ![実行結果](https://github.com/wakata/study/blob/master/Andoid/kotlin/jni/Screenshot_20190811-162427.png)
 
 ### 所感
