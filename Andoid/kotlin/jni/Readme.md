@@ -1,4 +1,4 @@
-# Androdi + KotlinでC++のソースコードの呼び出しをやってみた
+# Android + KotlinでC++のソースコードの呼び出しをやってみた
 
 ## 目次
 
