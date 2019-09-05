@@ -246,7 +246,7 @@ class MainActivity : AppCompatActivity() {
 
 ### 所感
 
-基本的には下記の内容で「Androdi + KotlinでC++のソースコードの呼び出し」はでたのですが、
+基本的には下記の内容で「Android + KotlinでC++のソースコードの呼び出し」はでたのですが、
 参照の定義の仕方や各ファイルについての説明等の情報がバラバラなので理解するのには時間がかかりました・・・。
 
 [プロジェクトへの C / C++ コードの追加](https://developer.android.com/studio/projects/add-native-code?hl=ja)
